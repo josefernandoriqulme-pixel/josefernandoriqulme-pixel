@@ -149,41 +149,6 @@
 
 ---
 
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-
-<!--                       CONTACTO                                -->
-
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
-
-## 🤝 Conectá conmigo
-
-<div align="center">
-
-<a href="TU_LINKEDIN" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" width="55">
-</a>
-
-   
-
-<a href="Thttps://www.instagram.com/ferchhu_riquelme/" target="_blank">
-<img src="https://skillicons.dev/icons?i=instagram" width="55">
-</a>
-
-   
-
-<a href="TU_DISCORD" target="_blank">
-<img src="https://skillicons.dev/icons?i=discord" width="55">
-</a>
-
-<br><br>
-
-**¡No dudes en contactarme! 👋**
-
-</div>
-
-<br>
-
----
 
 
 ⭐ **Gracias por visitar mi perfil**

@@ -20,7 +20,7 @@
 
 # 👋 Hola, soy Fernando Riquelme
 
-### 💻 Programador en formación | Desarrollo de Software
+### 💻 Programador en formación | Desarrollo de Software 
 
 **Apasionado por la programación, la tecnología y el aprendizaje constante.**
 
@@ -28,7 +28,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](TU_GITHUB)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](TU_LINKEDIN)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](TU_INSTAGRAM)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/ferchhu_riquelme/)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge\&logo=discord\&logoColor=white)](TU_DISCORD)
 
 </div>

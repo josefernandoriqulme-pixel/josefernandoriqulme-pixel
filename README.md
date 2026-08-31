@@ -172,11 +172,6 @@
 
 ---
 
-<div align="center">
-
-### 💻 `while(alive) { code(); learn(); repeat(); }`
-
-<br>
 
 ⭐ **Gracias por visitar mi perfil**
 

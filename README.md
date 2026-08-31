@@ -1,1 +1,1 @@
-(banner.png)
+!{imagen de portada de Github}(banner.png)

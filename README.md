@@ -45,11 +45,13 @@
 
 ## 🧑‍💻 Sobre mí
 
-🎯 Mi objetivo es seguir creciendo como desarrollador y adquirir experiencia creando proyectos reales.
+🎯 Mi objetivo es seguir creciendo como programador y adquirir experiencia creando proyectos reales.
 
 🌱 Actualmente estoy fortaleciendo mis conocimientos en diferentes lenguajes y herramientas de programación.
 
 💡 Me interesa especialmente aprender, experimentar y transformar ideas en proyectos funcionales.
+
+🎯 Mi objetivo algún día es ser desarrollador de videojuegos.
 
 ---
 

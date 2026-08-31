@@ -51,8 +51,6 @@
 
 💡 Me interesa especialmente aprender, experimentar y transformar ideas en proyectos funcionales.
 
-📚 Siempre estoy buscando nuevos desafíos que me permitan mejorar mis habilidades.
-
 ---
 
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
@@ -81,12 +79,12 @@
 
 |       Tecnología      | Nivel de experiencia |
 | :-------------------: | :------------------: |
-|          🔵 C         |      Aprendiendo     |
+|          🔵 C         |      Familiarizado / Conocimiento     |
 |         ☕ Java        |      Aprendiendo     |
 |     🟨 JavaScript     |      Aprendiendo     |
-|        🌐 HTML5       |      Aprendiendo     |
-|         🎨 CSS        |      Aprendiendo     |
-|       🐍 Python       |      Aprendiendo     |
+|        🌐 HTML5       |      Familiarizado / Conocimiento     |
+|         🎨 CSS        |      Familiarizado / Conocimiento    |
+|       🐍 Python       |      Familiarizado / Conocimiento     |
 | 💙 Visual Studio Code |     Uso habitual     |
 |       💬 Discord      |     Uso habitual     |
 
@@ -101,10 +99,9 @@
 ## 🚀 Actualmente
 
 ```text
-📚 Aprendiendo programación
+📚 programación
 │
 ├── 💻 C
-├── ☕ Java
 ├── 🟨 JavaScript
 ├── 🌐 HTML5
 ├── 🎨 CSS
@@ -114,9 +111,9 @@
 ### 🎯 Mis objetivos
 
 * 📖 Seguir mejorando mis conocimientos de programación.
-* 🧠 Aprender nuevas tecnologías y herramientas.
+* 🧠 Aprender nuevas tecnologías y herramientas / lenguajes.
 * 🛠️ Crear proyectos personales.
-* 💼 Adquirir experiencia como desarrollador.
+* 💼 Adquirir experiencia como programador.
 * 🚀 Construir proyectos cada vez más completos.
 
 ---

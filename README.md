@@ -154,7 +154,7 @@
 
    
 
-<a href="TU_INSTAGRAM" target="_blank">
+<a href="Thttps://www.instagram.com/ferchhu_riquelme/" target="_blank">
 <img src="https://skillicons.dev/icons?i=instagram" width="55">
 </a>
 

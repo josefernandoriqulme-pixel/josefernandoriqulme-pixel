@@ -45,19 +45,6 @@
 
 ## 🧑‍💻 Sobre mí
 
-```c
-#include <stdio.h>
-
-int main() {
-
-    printf("Hola, soy Fernando Riquelme\n");
-    printf("Soy programador en formación.\n");
-    printf("Siempre aprendiendo algo nuevo.\n");
-
-    return 0;
-}
-```
-
 🎯 Mi objetivo es seguir creciendo como desarrollador y adquirir experiencia creando proyectos reales.
 
 🌱 Actualmente estoy fortaleciendo mis conocimientos en diferentes lenguajes y herramientas de programación.

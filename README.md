@@ -1,1 +1,1 @@
-(banner.png.png)
+(banner.png)
